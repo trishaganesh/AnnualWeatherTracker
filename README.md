@@ -15,11 +15,9 @@ We would've also needed to include loops to traverse the arrays. 
 ------------------------------------------------------------------------------------------------
 
 Area for improvement: 
-
 Overall, I struggled to understand how we could've implemented two static methods in our program as my program was working fine without them. 
 However, I understood the importance of writing good code. Regardless of whether my program worked or not, I needed to ensure I included all concepts taught. 
 
-What I liked: 
-
+What I liked:
 I enjoyed writing this program because I was able to utilize many concepts to solve a problem: converting temperatures and precipitation. 
 The idea of working with numbers has always enthralled me!
